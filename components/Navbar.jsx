@@ -62,7 +62,7 @@ const Navbar = () => {
               alt='/'
               width='50'
               height='50'
-              className='cursor-pointer'
+              className='cursor-pointer pt-2'
             />
           </a>
         </Link>
@@ -177,7 +177,7 @@ const Navbar = () => {
               </p>
               <div className='flex items-center justify-between my-4 w-full sm:w-[80%]'>
                 <a
-                  href='https://www.linkedin.com/in/clint-briley-50056920a/'
+                  href='https://www.linkedin.com/in/kenneth-dimalibot-b5b4ab273/'
                   target='_blank'
                   rel='noreferrer'
                 >
@@ -186,7 +186,7 @@ const Navbar = () => {
                   </div>
                 </a>
                 <a
-                  href='https://github.com/fireclint'
+                  href='https://github.com/IKennCode'
                   target='_blank'
                   rel='noreferrer'
                 >
